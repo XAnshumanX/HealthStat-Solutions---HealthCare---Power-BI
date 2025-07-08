@@ -1,4 +1,4 @@
-# Hospital Performance Analysis Power BI Project Documentation
+# Hospital Performance Analysis Power BI Project
 
 ## Tools Used
 - Power BI, DAX, Power Query, Tableau, ETL, Data Storytelling, Data Modeling, Reports
